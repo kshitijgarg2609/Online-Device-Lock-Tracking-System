@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ removeRows()
+comment1.params=a
+comment1.target=void\ processLogs(java.lang.String)
+comment2.params=c\ l\ id
+comment2.target=void\ processLogs(char,\ char,\ java.lang.String)
+comment3.params=id
+comment3.target=int\ searchIdInTable(java.lang.String)
+numComments=4

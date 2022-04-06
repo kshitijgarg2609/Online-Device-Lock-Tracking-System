@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=a\ b
+comment0.target=TableTuple(java.lang.String,\ char)
+comment1.params=
+comment1.target=java.lang.Object[]\ retrieveTuple()
+numComments=2

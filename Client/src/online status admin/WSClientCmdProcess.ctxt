@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ run()
+comment1.params=a\ b
+comment1.target=WSClientCmdProcess(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=boolean\ connectServer()
+comment3.params=
+comment3.target=void\ authenticate()
+comment4.params=a
+comment4.target=void\ sendMessage(java.lang.String)
+comment5.params=session
+comment5.target=void\ onOpen(javax.websocket.Session)
+comment6.params=session\ msg
+comment6.target=void\ onMessage(javax.websocket.Session,\ java.lang.String)
+comment7.params=session\ closeReason
+comment7.target=void\ onClose(javax.websocket.Session,\ javax.websocket.CloseReason)
+comment8.params=session\ t
+comment8.target=void\ onError(javax.websocket.Session,\ java.lang.Throwable)
+comment9.params=
+comment9.target=void\ requestReconnect()
+numComments=10

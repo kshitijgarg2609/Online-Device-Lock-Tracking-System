@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ run()
+comment1.params=
+comment1.target=void\ acceptPingBacks()
+comment2.params=
+comment2.target=void\ mapDeviceSessions()
+comment3.params=
+comment3.target=void\ disconnectSessions()
+comment4.params=cli
+comment4.target=void\ onOpen(javax.websocket.Session)
+comment5.params=cli\ str
+comment5.target=void\ onMessage(javax.websocket.Session,\ java.lang.String)
+comment6.params=reason\ session
+comment6.target=void\ onClose(javax.websocket.CloseReason,\ javax.websocket.Session)
+comment7.params=session\ t
+comment7.target=void\ onError(javax.websocket.Session,\ java.lang.Throwable)
+comment8.params=str
+comment8.target=void\ handleAdmin(java.lang.String)
+comment9.params=str
+comment9.target=void\ handleDevice(java.lang.String)
+numComments=10
